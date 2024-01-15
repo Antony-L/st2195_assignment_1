@@ -9,5 +9,3 @@ This assignment evaluates our understanding and proficiency in fundamental opera
 3.  Generate a html file from each corresponding program, using R Markdown in R Studio, and Jupyter notebook.
 4.  Use git to mark and archive the files in my local repository.
 5.  Upload the repository on Github.
-
-### By: Yi-Jun Liu 🧑🏻‍💻
